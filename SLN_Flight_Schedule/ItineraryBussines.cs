@@ -31,7 +31,7 @@ namespace Flight_Schedule_APP
             string Departure = string.Empty;
             string Arrival = string.Empty;
             string DayFlight = string.Empty;
-            bool dummy = true;
+            bool dummy = false;
 
             if (dummy)
             {
